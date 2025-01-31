@@ -7,7 +7,7 @@ My goal was to add the ability to look for local .wav files, along with an exter
 
 1. Added external reference to a local "friendlies.json" file in place of the list previously located inside the script.
 
-2. Added external reference to both "bogey.wav" and "friendly.wav" audio files in place of the previous Windows audio cues. This allows any user to create whatever alert sounds they wish for, either by saving a .wav file by the correct name in the same folder as the executable.
+2. Added external reference to both "bogey.wav" and "friendly.wav" audio files in place of the previous Windows audio cues. This allows any user to create whatever alert sounds they wish for either, by saving a .wav file by the correct name in the same folder as the executable.
 
 3. Added a System Tray icon with options to test both alert sounds and to bring the program's window to the front.
 
